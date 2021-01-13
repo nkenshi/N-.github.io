@@ -1,0 +1,38 @@
+.header{
+  height:200px;
+  background-color:white;
+}
+.title{
+  float:left;
+}
+
+.N君のラーメン行楽記{
+  border:dimgray solid 8px;
+  border-radius: 15px;
+float:left;
+}
+.page-title{
+  border-bottom:red double 8px;
+  height:75px;
+  background-color:white;
+}
+
+.title-link li{
+  float:left;
+  padding:20px 90px;
+  list-style:none;
+
+}
+
+.main{
+
+  background-color:white;
+}
+.ラーメン{
+  height:400px;
+  width:760px;
+  padding:10px;
+}
+h2{
+border-bottom: 5px dimgray solid;
+}
